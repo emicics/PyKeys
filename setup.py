@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="PyKey", # You can use a unique name here
-    version="1.0.0",
+    name="PyKeyeasy", # You can use a unique name here
+    version="1.0.1",
     author="Emiliano",
     description="Ultra-simple keyboard detection with automatic variables",
     long_description=open("README.md").read(),
